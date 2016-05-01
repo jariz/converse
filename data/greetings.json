@@ -1,0 +1,962 @@
+[
+  {
+    "code": "A1",
+    "greeting": "Hello"
+  },
+  {
+    "code": "A2",
+    "greeting": "Hello"
+  },
+  {
+    "code": "AD",
+    "greeting": "Hola"
+  },
+  {
+    "code": "AE",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "AF",
+    "greeting": "Senga yai"
+  },
+  {
+    "code": "AG",
+    "greeting": "Hello"
+  },
+  {
+    "code": "AI",
+    "greeting": "Hello"
+  },
+  {
+    "code": "AL",
+    "greeting": "Tungjatjeta"
+  },
+  {
+    "code": "AM",
+    "greeting": "Barev"
+  },
+  {
+    "code": "AN",
+    "greeting": "Kon ta bai"
+  },
+  {
+    "code": "AO",
+    "greeting": "Olá"
+  },
+  {
+    "code": "AP",
+    "greeting": "Hello"
+  },
+  {
+    "code": "AQ",
+    "greeting": "Hello"
+  },
+  {
+    "code": "AR",
+    "greeting": "Hola"
+  },
+  {
+    "code": "AS",
+    "greeting": "Hello"
+  },
+  {
+    "code": "AT",
+    "greeting": "Hallo"
+  },
+  {
+    "code": "AU",
+    "greeting": "Hello"
+  },
+  {
+    "code": "AW",
+    "greeting": "Kon ta bai"
+  },
+  {
+    "code": "AX",
+    "greeting": "Hello"
+  },
+  {
+    "code": "AZ",
+    "greeting": "Salam"
+  },
+  {
+    "code": "BA",
+    "greeting": "Zdravo"
+  },
+  {
+    "code": "BB",
+    "greeting": "Hello"
+  },
+  {
+    "code": "BD",
+    "greeting": "Namaskar"
+  },
+  {
+    "code": "BE",
+    "greeting": "Hallo"
+  },
+  {
+    "code": "BF",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "BG",
+    "greeting": "Zdravei"
+  },
+  {
+    "code": "BH",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "BI",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "BJ",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "BM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "BN",
+    "greeting": "Selamat"
+  },
+  {
+    "code": "BO",
+    "greeting": "Hola"
+  },
+  {
+    "code": "BR",
+    "greeting": "Olá"
+  },
+  {
+    "code": "BS",
+    "greeting": "Hello"
+  },
+  {
+    "code": "BT",
+    "greeting": "Kuzu zangpo"
+  },
+  {
+    "code": "BV",
+    "greeting": "Hello"
+  },
+  {
+    "code": "BW",
+    "greeting": "Dumela"
+  },
+  {
+    "code": "BY",
+    "greeting": "Вітаю"
+  },
+  {
+    "code": "BZ",
+    "greeting": "Hello"
+  },
+  {
+    "code": "CA",
+    "greeting": "Hello"
+  },
+  {
+    "code": "CD",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "CF",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "CG",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "CH",
+    "greeting": "Hallo"
+  },
+  {
+    "code": "CI",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "CK",
+    "greeting": "Kia orana"
+  },
+  {
+    "code": "CL",
+    "greeting": "Hola"
+  },
+  {
+    "code": "CM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "CN",
+    "greeting": "&#20320;&#22909;"
+  },
+  {
+    "code": "CO",
+    "greeting": "Hola"
+  },
+  {
+    "code": "CR",
+    "greeting": "Hola"
+  },
+  {
+    "code": "CU",
+    "greeting": "Hola"
+  },
+  {
+    "code": "CV",
+    "greeting": "Olá"
+  },
+  {
+    "code": "CY",
+    "greeting": "&#915;&#949;&#953;&#945; &#963;&#959;&#965;"
+  },
+  {
+    "code": "CZ",
+    "greeting": "Dobrý den"
+  },
+  {
+    "code": "DE",
+    "greeting": "Hallo"
+  },
+  {
+    "code": "DJ",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "DK",
+    "greeting": "Hej"
+  },
+  {
+    "code": "DM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "DO",
+    "greeting": "Hola"
+  },
+  {
+    "code": "DZ",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "EC",
+    "greeting": "Hola"
+  },
+  {
+    "code": "EE",
+    "greeting": "Tervist"
+  },
+  {
+    "code": "EG",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "ER",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "ES",
+    "greeting": "Hola"
+  },
+  {
+    "code": "ET",
+    "greeting": "Teanastëllën"
+  },
+  {
+    "code": "EU",
+    "greeting": "Hello"
+  },
+  {
+    "code": "FI",
+    "greeting": "Moi"
+  },
+  {
+    "code": "FJ",
+    "greeting": "Hello"
+  },
+  {
+    "code": "FK",
+    "greeting": "Hello"
+  },
+  {
+    "code": "FM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "FO",
+    "greeting": "Hallo"
+  },
+  {
+    "code": "FR",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "GA",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "GB",
+    "greeting": "Hello"
+  },
+  {
+    "code": "GD",
+    "greeting": "Hello"
+  },
+  {
+    "code": "GE",
+    "greeting": "Gamardjobat"
+  },
+  {
+    "code": "GF",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "GG",
+    "greeting": "Hello"
+  },
+  {
+    "code": "GH",
+    "greeting": "Hello"
+  },
+  {
+    "code": "GI",
+    "greeting": "Hello"
+  },
+  {
+    "code": "GL",
+    "greeting": "Aluu"
+  },
+  {
+    "code": "GM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "GN",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "GP",
+    "greeting": "Hello"
+  },
+  {
+    "code": "GQ",
+    "greeting": "Hola"
+  },
+  {
+    "code": "GR",
+    "greeting": "&#915;&#949;&#953;&#945; &#963;&#959;&#965;"
+  },
+  {
+    "code": "GT",
+    "greeting": "Hola"
+  },
+  {
+    "code": "GU",
+    "greeting": "Hello"
+  },
+  {
+    "code": "GW",
+    "greeting": "Olá"
+  },
+  {
+    "code": "GY",
+    "greeting": "Hello"
+  },
+  {
+    "code": "HK",
+    "greeting": "&#20320;&#22909;"
+  },
+  {
+    "code": "HN",
+    "greeting": "HHola"
+  },
+  {
+    "code": "HR",
+    "greeting": "Bok"
+  },
+  {
+    "code": "HT",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "HU",
+    "greeting": "Jó napot"
+  },
+  {
+    "code": "ID",
+    "greeting": "Selamat"
+  },
+  {
+    "code": "IE",
+    "greeting": "Haileo"
+  },
+  {
+    "code": "IL",
+    "greeting": "Shalom"
+  },
+  {
+    "code": "IM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "IN",
+    "greeting": "&#2344;&#2350;&#2360;&#2381;&#2340;&#2375;"
+  },
+  {
+    "code": "IO",
+    "greeting": "Hello"
+  },
+  {
+    "code": "IQ",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "IR",
+    "greeting": "Salâm"
+  },
+  {
+    "code": "IS",
+    "greeting": "Góðan daginn"
+  },
+  {
+    "code": "IT",
+    "greeting": "Buon giorno"
+  },
+  {
+    "code": "JE",
+    "greeting": "Hello"
+  },
+  {
+    "code": "JM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "JO",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "JP",
+    "greeting": "&#12371;&#12435;&#12395;&#12385;&#12399;"
+  },
+  {
+    "code": "KE",
+    "greeting": "Habari"
+  },
+  {
+    "code": "KG",
+    "greeting": "Kandisiz"
+  },
+  {
+    "code": "KH",
+    "greeting": "Sua s''dei"
+  },
+  {
+    "code": "KI",
+    "greeting": "Mauri"
+  },
+  {
+    "code": "KM",
+    "greeting": "Bariza djioni"
+  },
+  {
+    "code": "KN",
+    "greeting": "Hello"
+  },
+  {
+    "code": "KP",
+    "greeting": "&#50504;&#45397;&#54616;&#49464;&#50836;"
+  },
+  {
+    "code": "KR",
+    "greeting": "&#50504;&#45397;&#54616;&#49464;&#50836;"
+  },
+  {
+    "code": "KW",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "KY",
+    "greeting": "Hello"
+  },
+  {
+    "code": "KZ",
+    "greeting": "Salam"
+  },
+  {
+    "code": "LA",
+    "greeting": "Sabaidee"
+  },
+  {
+    "code": "LB",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "LC",
+    "greeting": "Hello"
+  },
+  {
+    "code": "LI",
+    "greeting": "Hallo"
+  },
+  {
+    "code": "LK",
+    "greeting": "A`yubowan"
+  },
+  {
+    "code": "LR",
+    "greeting": "Hello"
+  },
+  {
+    "code": "LS",
+    "greeting": "Hello"
+  },
+  {
+    "code": "LT",
+    "greeting": "Laba diena"
+  },
+  {
+    "code": "LU",
+    "greeting": "Moïen"
+  },
+  {
+    "code": "LV",
+    "greeting": "Sveiki"
+  },
+  {
+    "code": "LY",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "MA",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "MC",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "MD",
+    "greeting": "Salut"
+  },
+  {
+    "code": "ME",
+    "greeting": "Zdravo"
+  },
+  {
+    "code": "MG",
+    "greeting": "Manao ahoana"
+  },
+  {
+    "code": "MH",
+    "greeting": "Yokwe"
+  },
+  {
+    "code": "MK",
+    "greeting": "&#1047;&#1076;&#1088;&#1072;&#1074;&#1086;"
+  },
+  {
+    "code": "ML",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "MM",
+    "greeting": "Mingalarba"
+  },
+  {
+    "code": "MN",
+    "greeting": "Sain baina uu"
+  },
+  {
+    "code": "MO",
+    "greeting": "&#20320;&#22909;"
+  },
+  {
+    "code": "MP",
+    "greeting": "Hello"
+  },
+  {
+    "code": "MQ",
+    "greeting": "Hello"
+  },
+  {
+    "code": "MR",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "MS",
+    "greeting": "Hello"
+  },
+  {
+    "code": "MT",
+    "greeting": "Bongu"
+  },
+  {
+    "code": "MU",
+    "greeting": "Hello"
+  },
+  {
+    "code": "MV",
+    "greeting": "Kihineth"
+  },
+  {
+    "code": "MW",
+    "greeting": "Muribwanji"
+  },
+  {
+    "code": "MX",
+    "greeting": "Hola"
+  },
+  {
+    "code": "MY",
+    "greeting": "Selamat"
+  },
+  {
+    "code": "MZ",
+    "greeting": "Olá"
+  },
+  {
+    "code": "NA",
+    "greeting": "Hello"
+  },
+  {
+    "code": "NC",
+    "greeting": "Bozo"
+  },
+  {
+    "code": "NE",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "NF",
+    "greeting": "Whataway"
+  },
+  {
+    "code": "NG",
+    "greeting": "Hello"
+  },
+  {
+    "code": "NI",
+    "greeting": "Hola"
+  },
+  {
+    "code": "NL",
+    "greeting": "Hallo"
+  },
+  {
+    "code": "NO",
+    "greeting": "Hallo"
+  },
+  {
+    "code": "NP",
+    "greeting": "Namaste"
+  },
+  {
+    "code": "NR",
+    "greeting": "Hello"
+  },
+  {
+    "code": "NU",
+    "greeting": "Faka lofa lahi atu"
+  },
+  {
+    "code": "NZ",
+    "greeting": "Hello"
+  },
+  {
+    "code": "OM",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "PA",
+    "greeting": "Hola"
+  },
+  {
+    "code": "PE",
+    "greeting": "Hola"
+  },
+  {
+    "code": "PF",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "PG",
+    "greeting": "Hello"
+  },
+  {
+    "code": "PH",
+    "greeting": "Halo"
+  },
+  {
+    "code": "PK",
+    "greeting": "Adaab"
+  },
+  {
+    "code": "PL",
+    "greeting": "Dzień dobry"
+  },
+  {
+    "code": "PM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "PR",
+    "greeting": "Hola"
+  },
+  {
+    "code": "PS",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "PT",
+    "greeting": "Olá"
+  },
+  {
+    "code": "PW",
+    "greeting": "Alii"
+  },
+  {
+    "code": "PY",
+    "greeting": "Hola"
+  },
+  {
+    "code": "QA",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "RE",
+    "greeting": "Hello"
+  },
+  {
+    "code": "RO",
+    "greeting": "Salut"
+  },
+  {
+    "code": "RS",
+    "greeting": "Zdravo"
+  },
+  {
+    "code": "RU",
+    "greeting": "&#1047;&#1076;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1091;&#1081;&#1090;&#1077;"
+  },
+  {
+    "code": "RW",
+    "greeting": "Hello"
+  },
+  {
+    "code": "SA",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "SB",
+    "greeting": "Hello"
+  },
+  {
+    "code": "SC",
+    "greeting": "Hello"
+  },
+  {
+    "code": "SD",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "SE",
+    "greeting": "God dag"
+  },
+  {
+    "code": "SG",
+    "greeting": "Selamat"
+  },
+  {
+    "code": "SI",
+    "greeting": "Živijo"
+  },
+  {
+    "code": "SK",
+    "greeting": "Dobrý deň"
+  },
+  {
+    "code": "SL",
+    "greeting": "Hello"
+  },
+  {
+    "code": "SM",
+    "greeting": "Buon giorno"
+  },
+  {
+    "code": "SN",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "SO",
+    "greeting": "Maalim wanaqsan"
+  },
+  {
+    "code": "SR",
+    "greeting": "Hallo"
+  },
+  {
+    "code": "ST",
+    "greeting": "Hello"
+  },
+  {
+    "code": "SV",
+    "greeting": "Hola"
+  },
+  {
+    "code": "SY",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "SZ",
+    "greeting": "Hello"
+  },
+  {
+    "code": "TC",
+    "greeting": "Hello"
+  },
+  {
+    "code": "TD",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "TG",
+    "greeting": "Bonjour"
+  },
+  {
+    "code": "TH",
+    "greeting": "Sawatdi"
+  },
+  {
+    "code": "TJ",
+    "greeting": "Salom"
+  },
+  {
+    "code": "TK",
+    "greeting": "Taloha"
+  },
+  {
+    "code": "TM",
+    "greeting": "Salam"
+  },
+  {
+    "code": "TN",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "TO",
+    "greeting": "Malo e lelei"
+  },
+  {
+    "code": "TR",
+    "greeting": "Merhaba"
+  },
+  {
+    "code": "TT",
+    "greeting": "Hello"
+  },
+  {
+    "code": "TV",
+    "greeting": "Talofa"
+  },
+  {
+    "code": "TW",
+    "greeting": "&#20320;&#22909;"
+  },
+  {
+    "code": "TZ",
+    "greeting": "Habari"
+  },
+  {
+    "code": "UA",
+    "greeting": "Pryvit"
+  },
+  {
+    "code": "UG",
+    "greeting": "Habari"
+  },
+  {
+    "code": "UK",
+    "greeting": "Hello"
+  },
+  {
+    "code": "UM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "US",
+    "greeting": "Hello"
+  },
+  {
+    "code": "UY",
+    "greeting": "Hola"
+  },
+  {
+    "code": "UZ",
+    "greeting": "Salom"
+  },
+  {
+    "code": "VA",
+    "greeting": "Buon giorno"
+  },
+  {
+    "code": "VC",
+    "greeting": "Hello"
+  },
+  {
+    "code": "VE",
+    "greeting": "Hola"
+  },
+  {
+    "code": "VG",
+    "greeting": "Hello"
+  },
+  {
+    "code": "VI",
+    "greeting": "Hello"
+  },
+  {
+    "code": "VN",
+    "greeting": "Chào"
+  },
+  {
+    "code": "VU",
+    "greeting": "Halo"
+  },
+  {
+    "code": "WF",
+    "greeting": "Malo le kataki"
+  },
+  {
+    "code": "WS",
+    "greeting": "Talofa"
+  },
+  {
+    "code": "YE",
+    "greeting": "Marhaba"
+  },
+  {
+    "code": "YT",
+    "greeting": "Hello"
+  },
+  {
+    "code": "ZA",
+    "greeting": "Hello"
+  },
+  {
+    "code": "ZM",
+    "greeting": "Hello"
+  },
+  {
+    "code": "ZW",
+    "greeting": "Hello"
+  },
+  {
+    "code": "RD",
+    "greeting": "Hello"
+  }
+]
