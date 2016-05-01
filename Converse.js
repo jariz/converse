@@ -125,16 +125,16 @@ module.exports = class Converse extends EventEmitter {
                             case "?M":
                             case "M":
                             case "1M":
-                                pronoun = " " + chance.pickone(["dude", "bro", "man"]); //todo think of more
+                                pronoun = ", " + chance.pickone(["dude", "bro", "man"]); //todo think of more
                                 this.profile.isMale = true;
                                 break;
                             case "?F":
                             case "F":
-                                pronoun = " " + chance.pickone(["Miss", "Lady", "girl"]); //todo think of more
+                                pronoun = ", " + chance.pickone(["Miss", "Lady", "girl"]); //todo think of more
                                 this.profile.isMale = false;
                                 break;
                             default:
-                                pronoun = " " + untokenized;
+                                pronoun = ", " + untokenized;
                                 break;
                         }
                     }
@@ -144,7 +144,7 @@ module.exports = class Converse extends EventEmitter {
                         this.profile.likelyCountry = country.ISO;
                     }
 
-                    this.speak(`${greeting},${pronoun}!`, _ => {
+                    this.speak(`${greeting}${pronoun}!`, _ => {
                         if (country) {
                             let countryName = countries.getName(country.ISO);
                             logger.log("debug", "country.ISO =", country.ISO, "aka", countryName);
