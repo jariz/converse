@@ -12,7 +12,6 @@ module.exports = class Server {
     }
     
     static onConnection (socket) {
-        console.log("connect");
         var converse = new Server.converse();
         converse.on("speak", (message) => Server.onSpeak(message, socket))
         converse.on("interact", _ => Server.onInteract(socket))
